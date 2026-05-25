@@ -9,6 +9,11 @@ Also I'll solve the levels in Windows but I'll try to reference any Linux things
 
 If it wasn't obvious this writeup will contain spoilers for all levels, this puzzle game its so cool so you should try your best into solving it by yourself before reading any of this.
 
+## Disclaimer I guess
+
+This online puzzle contains sometimes explicit imagery so be warned.
+
 ## Contents
 
 - [Levels 1-10](01-10.md)
+- [Levels 11-20](11-20.md)
