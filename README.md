@@ -18,3 +18,4 @@ This online puzzle contains sometimes explicit imagery so be warned.
 - [Levels 1-10](01-10.md)
 - [Levels 11-20](11-20.md)
 - [Levels 21-30](21-30.md)
+- [Levels 31-40](31-40.md)
